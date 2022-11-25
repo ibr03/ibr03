@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ibr03
-- 👀 I’m interested in computer engineering
 - 🌱 I’m currently learning Python, SQL, R
 - 📫 How to reach me - ibrahimforcode@gmail.com 
 
