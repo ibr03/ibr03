@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ibr03
-- 🌱 I’m currently learning Python, SQL, R
+- 🌱 I’m currently learning C, Python, SQL
 - 📫 How to reach me - ibrahimforcode@gmail.com 
 
 <!---
