@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ibr03
-- 🌱 I’m currently learning JavaScript, Python, SQL
 - 📫 How to reach me - ibrahimforcode@gmail.com 
 
 <!---
